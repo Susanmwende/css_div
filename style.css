@@ -1,0 +1,10 @@
+#container{
+    border: dotted;color: brown;
+
+
+}
+p {
+    border: solid 3px;
+    padding: 20px;
+    margin: 5%;
+}
